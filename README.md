@@ -18,6 +18,6 @@ HTML | CSS | JavaScript | Firebase Hosting | NodeEmail
 - `index.html` – Main homepage
 - `firebase.json` – Firebase deployment configuration
 
-[▶️ Watch Demo]()
+[▶️ Watch Demo](https://youtu.be/L07zRzWXAhI)
 
 🔗 Feel free to explore and connect with me through the links on the site!
