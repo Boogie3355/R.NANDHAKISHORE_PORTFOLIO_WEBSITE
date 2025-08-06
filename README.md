@@ -7,6 +7,7 @@ HTML | CSS | JavaScript | Firebase Hosting | NodeEmail
 
 🧾 **Sections Included**:
 - 🧠 About Me
+- 📄 Resume  
 - 💼 Projects
 - 📜 Certifications
 - 📫 Contact Details
